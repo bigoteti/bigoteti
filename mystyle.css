@@ -1,9 +1,10 @@
 body {
   margin:0;
+
 }
 section{
   display:flex;
-  background-color:white;
+  background-color:red;
 }
 .section-left-part{
   display:flex;
