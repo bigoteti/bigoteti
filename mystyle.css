@@ -19,5 +19,5 @@ section{
 .section-right-part{
   display:flex;
   height:100%;
-  background-color:linear-gradient(45deg, black, rgb(84,81,78));
+  background:linear-gradient(135deg, black, rgb(84,81,78));
 }
