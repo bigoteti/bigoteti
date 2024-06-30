@@ -1,3 +1,23 @@
+body {
+  margin:0;
+}
 section{
   display:flex;
+  background-color:white;
+}
+.section-left-part{
+  display:flex;
+  height:100%;
+}
+
+.section-left-part-header{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color:rgb(237,237,238);
+}
+.section-right-part{
+  display:flex;
+  height:100%;
+  background-color:linear-gradient(45deg, black, rgb(84,81,78));
 }
